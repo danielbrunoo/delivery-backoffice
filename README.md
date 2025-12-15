@@ -1,4 +1,4 @@
-# 10° Edição Dart Week
+# 10° Edição Dart Week - Academia do Flutter
 
 Delivery System with Flutter Web
 
